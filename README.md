@@ -1,5 +1,5 @@
 # BatteryTester
-Battery Tester is simple tool used to check how your battery is.
+Battery Tester is simple tool used to check how charged your battery is.
 
 Equipements:
 
