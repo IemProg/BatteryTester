@@ -1,5 +1,6 @@
 # BatteryTester
 Battery Tester is simple tool used to check how your battery is.
+
 Equipements:
 
     -Arduino Uno.
@@ -21,3 +22,6 @@ I will now quickly go through the steps of putting this together below. Undernea
         Green LED = 2
     5 -Now connect from analogue pin 0 (A0) to the breadboard. After this add a 220-ohm resistor and the Zener diode (with the line on Zener diode facing towards the Arduino). Finally have a loose wire coming from the other end to diode.
     6 -Finally have a lose wire connected to the ground rail.
+
+
+To see the circuit design of this tool, take a look at :"Arduino-Battery-Tester-Circuit-2.jpg"  file.
