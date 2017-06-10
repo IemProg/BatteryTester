@@ -1,11 +1,12 @@
 # BatteryTester
 Battery Tester is simple tool used to check how your battery is.
 Equipements:
-  -Arduino Uno.
-  -3 LEDs (Green, Yellow, Red).
-  -Zener Diode 5/7
-  -4 Resistors (3/4 : 11-ohm, 1/4: 220-ohm).
-  -Breadboard & Wires.
+
+    -Arduino Uno.
+    -3 LEDs (Green, Yellow, Red).
+    -Zener Diode 5/7
+    -4 Resistors (3/4 : 11-ohm, 1/4: 220-ohm).
+    -Breadboard & Wires.
 
 Code source of this project is included in: BatteryTester.ino file.
 Insctructions:
